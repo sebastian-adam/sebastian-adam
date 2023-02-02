@@ -1,4 +1,7 @@
-### Hi there 👋
+### Experimenting where software meets art 👋
+
+![dallemini_2022-6-30_22-18-23 copy](https://user-images.githubusercontent.com/19532408/216254809-fdb4f85a-5c31-40e4-95c3-0f917e201e31.png)
+![librosa-onset-onset_detect-1](https://user-images.githubusercontent.com/19532408/216254830-b51125e9-c715-4452-bd52-f69d79b4fd6a.png)
 
 <!--
 **sebastian-adam/sebastian-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
